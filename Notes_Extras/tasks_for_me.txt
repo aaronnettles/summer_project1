@@ -1,0 +1,6 @@
+Instructor:	add a course
+		delete a course
+
+Student:	enroll in a course
+		drop a course
+

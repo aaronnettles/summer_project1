@@ -1,0 +1,21 @@
+Home Page for School
+
+	Student Area
+		Login
+		Students Only
+			Student Stuff (Logout on each page)
+		Logout
+
+	Instructor Area
+		Login
+		Instructors Only
+			Instructor Stuff (Logout on each page)
+		Logout
+
+	// do this last, the first two sections are most important
+	Create Account
+		if email is not in table
+			generate sid/iid and a password
+			email sid/iid and a password to person
+		if email is invalid
+			delete user from table
